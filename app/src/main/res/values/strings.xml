@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Urgence</string>
+    <string name="add_patient">Add patient</string>
+    <string name="liste_patients">List Patients</string>
+    <string name="delete_patient">Delete patient</string>
+    <string name="list_doctors">List doctors</string>
+    <string name="delete_a_doctor">Delete a doctor</string>
+    <string name="add_an_ambulance">Add an ambulance</string>
+    <string name="list_ambulances">List ambulances</string>
+    <string name="delete_an_ambulance">Delete an ambulance</string>
+    <string name="add_doctor">Add doctor</string>
+    <string name="enter_patient_name">Enter name</string>
+    <string name="femme">Femme</string>
+    <string name="homme">Homme</string>
+    <string name="enter_your_address">Enter address</string>
+    <string name="enter_phone_number">Enter Phone number</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="list_members">List Members</string>
+    <string name="name">name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="residence">residence</string>
+    <string name="update">Update</string>
+</resources>
